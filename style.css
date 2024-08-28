@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(177, 204, 144);
+}
+
+/*estilo menu*/
+menu { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+li {display: inline;}a{
+    color: rgb(13, 14, 14);
+    padding: 40px 120px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #555;
+    color: rgb(246, 252, 246);}
+
+ /*estilo do h1*/   
+h1 {
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    font-size: 100px;
+    font-family: "MedievalSharp", serif;
+}
+/*estilos dos paragrafos*/
+.paragrafo {
+    text-align: center;
+    padding: 4%
+}
+.formacao {
+    list-style: decimal;
+}
